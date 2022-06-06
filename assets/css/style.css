@@ -228,7 +228,13 @@ main {
     font-family: 'Poppins', sans-serif;
 }
 
+.size {
+    font-size: 12px;
+}
 
+.size2 {
+    font-size: 13px;
+}
 
 /* start: Navbar */
 nav {
